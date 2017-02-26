@@ -36,7 +36,7 @@ for T=3:6
 % optimal Algorithm and a similar algorithm than Ku et Arthanaris with the
 % projection method
 % We solve until both methods do not work
-        while instance <= 1
+        while instance <= 30
 %% Transform the initialBay using nContPerTimeWindow by allowing at most nContPerTimeWindow
 % per time window.
             initialBay = readInputFile(S,T,instance,fillRate);
