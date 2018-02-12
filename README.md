@@ -1,5 +1,7 @@
 # StochasticCRP
 
+[![DOI](https://zenodo.org/badge/74933218.svg)](https://zenodo.org/badge/latestdoi/74933218)
+
 This repository contains the instances, code and results published in "Stochastic Container Relocation Problem" (2017).
 
 Instances are stored in crptw_instance where there are subfolder per size (for e.g. 0503 is for S=5, T=3)
